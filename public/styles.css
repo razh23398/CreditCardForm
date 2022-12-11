@@ -228,5 +228,6 @@ body{
       #card-back p{
         position: relative;
         left: 255px;
+        width: 20px;
       }
 }
